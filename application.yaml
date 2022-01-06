@@ -8,5 +8,5 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/murugan-solai/spring-boot
+          uri: https://github.com/murugan-solai/config-server
           clone-on-start: true
